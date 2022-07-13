@@ -1,1 +1,1 @@
-# Practice-GIt
+`Here is our practice sentence.`
